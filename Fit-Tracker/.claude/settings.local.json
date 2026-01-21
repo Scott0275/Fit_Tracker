@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(py -m pytest tests/unit/test_base_models.py -v)",
+      "Bash(py -m pytest tests/unit/ -v --tb=short)",
+      "Bash(py -m pytest tests/unit/test_user_model.py -v)",
+      "Bash(py -m pytest tests/unit/ -v --tb=line)",
+      "Bash(findstr:*)",
+      "Bash(python3 -m pytest:*)",
+      "Bash(/c/Windows/py.exe -m pytest:*)"
+    ]
+  }
+}
