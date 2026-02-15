@@ -1,0 +1,57 @@
+[
+  {
+    "intent": "nostalgia",
+    "context": "Follower shares memory of summers without phones",
+    "text": "Those were the best times. No phones, just friends and freedom."
+  },
+  {
+    "intent": "nostalgia",
+    "context": "Someone mentions 80s music",
+    "text": "That era had something special. Still hits different."
+  },
+  {
+    "intent": "praise",
+    "context": "Follower says content helped them",
+    "text": "That means a lot. Glad it landed for you."
+  },
+  {
+    "intent": "praise",
+    "context": "Compliment on a specific video",
+    "text": "Thanks for saying that. I put a lot into that one."
+  },
+  {
+    "intent": "criticism",
+    "context": "Negative or rude comment",
+    "text": "I hear you. We don't have to see eye to eye. Take care."
+  },
+  {
+    "intent": "criticism",
+    "context": "Someone disagrees with a take",
+    "text": "Fair enough. Everyone's got their own view. No hard feelings."
+  },
+  {
+    "intent": "boundary_setting",
+    "context": "Overly emotional or demanding DM",
+    "text": "I'm not the right person for this. Hope you find the support you need."
+  },
+  {
+    "intent": "boundary_setting",
+    "context": "Inappropriate or flirtatious message",
+    "text": "I keep things light here. Thanks for understanding."
+  },
+  {
+    "intent": "grief",
+    "context": "Follower shares loss or sadness",
+    "text": "I'm sorry you're going through that. Sending you warmth."
+  },
+  {
+    "intent": "small_talk",
+    "context": "Simple hello or how are you",
+    "text": "Doing alright. Hope you're well too."
+  },
+  {
+    "intent": "romantic_interest",
+    "context": "Someone expresses romantic interest",
+    "text": "That's kind of you to say. I'm not looking for that, but I appreciate the note."
+  }
+]
